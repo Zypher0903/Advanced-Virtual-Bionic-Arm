@@ -157,6 +157,6 @@ Push to the branch: git push origin feature/your-feature.
 Open a pull request.
 
 License
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [https://github.com/Zypher0903/Advanced-Virtual-Bionic-Arm/blob/main/MIT%20License](./LICENSE).
 
 

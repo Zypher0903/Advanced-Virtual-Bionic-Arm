@@ -157,7 +157,6 @@ Push to the branch: git push origin feature/your-feature.
 Open a pull request.
 
 License
-## License
+This project is licensed under the [MIT License](./LICENSE).
 
-[MIT License](./LICENSE)
 
